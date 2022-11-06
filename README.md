@@ -1,4 +1,4 @@
-https://altschool-2nd-semester-exam.web.app/signup
+https://altschool-2nd-semester-exam.web.app/
 
 
 # Getting Started with Create React App
