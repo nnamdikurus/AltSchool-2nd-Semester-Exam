@@ -1,0 +1,25 @@
+.fbh{
+    font-size: 40px;
+    word-spacing: 10px;
+    letter-spacing: 40px;
+    font-family: cursive;
+    text-align: center;
+    text-decoration: none;
+    color: blue;
+    margin-left: 100px;
+    width:1300px;
+
+}
+
+.fbh:hover{
+    color:red;
+    background-color: rgb(247, 242, 242);
+    border-radius: 50px;
+}
+
+.angel{
+    margin-left: 400px;
+    width:500px;
+    line-height: 40px;
+
+}

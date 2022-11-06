@@ -1,0 +1,37 @@
+.user-input {
+    font-style: italic;
+    text-align: center;
+    width: 300px;
+    border-radius: 15px;
+    padding: 5px;
+  }
+
+
+  .user-pass {
+    font-weight: bold;
+    border: black 1px solid;
+    font-size: 25px;
+    text-align: center;
+    width: 1340px;
+  }
+
+  .sign-btn {
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 3px;
+    margin-top: 50px;
+    width: 120px;
+  }
+
+.create-acc{
+    margin-bottom: 60px;
+    font-size: 40px;
+}
+
+
+
+
+
+
+

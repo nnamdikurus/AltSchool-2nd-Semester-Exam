@@ -1,0 +1,51 @@
+body {
+  text-align: left;
+}
+
+h2{
+    font-size: 70px;
+}
+
+.PrevNext {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 100px;
+  padding:20px;
+  border-radius: 20px;
+  font-size:30px;
+}
+
+.previous{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-radius: 15px;
+    padding:10px; 
+}
+
+.previous:hover{
+    background-color: brown;
+}
+
+
+.mk-char {
+  text-align: center;
+  font-size: 50px;
+  text-decoration: underline;
+}
+
+.characters {
+  display: flex;
+  justify-content: space-around;
+}
+
+.char {
+  font-size: 50px;
+  padding: 150px 0;
+}
+
+.current-item{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly
+}

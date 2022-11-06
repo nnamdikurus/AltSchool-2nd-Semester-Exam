@@ -1,0 +1,6 @@
+.error-boundary{
+    display: flex;
+    justify-content: space-evenly;
+    font-size:25px;
+    margin-left: 30px;
+}

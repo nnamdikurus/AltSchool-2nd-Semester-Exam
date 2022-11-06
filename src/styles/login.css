@@ -1,0 +1,52 @@
+.log-details {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  word-spacing: 15px;
+  width: 1340px;
+  margin-bottom: 60px;
+}
+
+.user-pass {
+  font-weight: bold;
+  border: black 1px solid;
+  border-width: thin;
+  font-size: 25px;
+  text-align: center;
+  max-width: 500px;
+  margin-left: 450px;
+}
+
+.user-input {
+  font-style: italic;
+  text-align: center;
+  width: 300px;
+  border-radius: 15px;
+  padding: 5px;
+}
+
+.user-input:hover {
+  background-color: aquamarine;
+}
+
+.pass-input {
+  font-style: italic;
+  text-align: center;
+  width: 300px;
+  border-radius: 15px;
+  padding: 5px;
+}
+
+.pass-input:hover {
+  background-color: aquamarine;
+}
+
+.log-btn {
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 9px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  width: 150px;
+}
